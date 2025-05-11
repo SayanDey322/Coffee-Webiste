@@ -10,10 +10,6 @@ A sleek and responsive Coffee-themed website built using **HTML**, **CSS**, and 
 - 🖱️ **Interactive elements** — hover effects, animated buttons, and JavaScript functionality.
 - 📦 **Reusable components** — modular structure using semantic HTML and well-organized CSS.
 
-## 📸 Preview
-
-![Coffee Website Screenshot](./screenshot.png)  
-*(Replace with your actual screenshot or demo GIF)*
 
 ## 🛠️ Tech Stack
 
@@ -69,6 +65,4 @@ yaml
 Copy
 Edit
 
----
 
-Would you like me to help you create a project thumbnail or a GitHub banner too?
